@@ -1,0 +1,12 @@
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\bin\Debug\CinemaTictekAutomation.exe.config
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\bin\Debug\CinemaTictekAutomation.exe
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\bin\Debug\CinemaTictekAutomation.pdb
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.Form1.resources
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.Properties.Resources.resources
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.exe
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.pdb
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.Form2.resources
+C:\Users\berka\source\repos\CinemaTictekAutomation\CinemaTictekAutomation\obj\Debug\CinemaTictekAutomation.csproj.SuggestedBindingRedirects.cache
